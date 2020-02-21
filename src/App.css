@@ -28,8 +28,8 @@
         linear,
         left bottom,
         left top,
-        color-stop(0, rgb(73,132,180)),
-        color-stop(1, rgb(97,155,203))
+        color-stop(0, rgb(97, 203, 124)),
+        color-stop(1, rgb(97, 203, 124))
     );
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
@@ -41,18 +41,18 @@
  
  }
  .square:active {
-  background-image: linear-gradient(bottom, rgb(88,154,204) 0%, rgb(90,150,199) 100%);
-  background-image: -o-linear-gradient(bottom, rgb(88,154,204) 0%, rgb(90,150,199) 100%);
-  background-image: -moz-linear-gradient(bottom, rgb(88,154,204) 0%, rgb(90,150,199) 100%);
-  background-image: -webkit-linear-gradient(bottom, rgb(88,154,204) 0%, rgb(90,150,199) 100%);
-  background-image: -ms-linear-gradient(bottom, rgb(88,154,204) 0%, rgb(90,150,199) 100%);
+  background-image: linear-gradient(bottom, rgb(97, 203, 124) 0%, rgb(90,150,199) 100%);
+  background-image: -o-linear-gradient(bottom, rgb(97, 203, 124) 0%, rgb(90,150,199) 100%);
+  background-image: -moz-linear-gradient(bottom, rgb(97, 203, 124) 0%, rgb(90,150,199) 100%);
+  background-image: -webkit-linear-gradient(bottom, rgb(97, 203, 124) 0%, rgb(90,150,199) 100%);
+  background-image: -ms-linear-gradient(bottom, rgb(97, 203, 124) 0%, rgb(90,150,199) 100%);
  
   background-image: -webkit-gradient(
       linear,
       left bottom,
       left top,
-      color-stop(0, rgb(88,154,204)),
-      color-stop(1, rgb(90,150,199))
+      color-stop(0, rgb(88, 204, 117)),
+      color-stop(1, rgb(88, 204, 117))
   );
  }
  
